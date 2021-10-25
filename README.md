@@ -15,4 +15,4 @@ Protocol to train several models using the pyCaret library – with a few more a
 Modified/extended version with respect to the one provided by the pyCaret docs. 
 Described and commented throughout, appendices include a to do list.
 Functioning, but a few issues remain, possibly related to library versions. 
-UPDATE: previous runs with two different pre-existing environments, in 3.6.3 and 3.9.6 python, gave errors - though not blocking - possibly due to incostintent libraries. Once an ad-hoc epycaret env was created (as per included .yml file) no further errors were encountered.
+UPDATE: previous runs with two different pre-existing environments, in 3.6.3 and 3.9.6 python, gave errors - though not blocking - possibly due to incosistent libraries. error was reported to developers. However, once an ad-hoc 'epycaret' env was created (as per included .yml file) no further errors were encountered.
